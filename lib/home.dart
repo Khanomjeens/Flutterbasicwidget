@@ -224,7 +224,7 @@ class Home extends StatelessWidget {
                       padding: EdgeInsets.all(7)
                       ),
                     Text(
-                      "50 ํ",
+                      "80 ํ",
                       style: TextStyle(fontSize: 50),
                     ),
                   ],
